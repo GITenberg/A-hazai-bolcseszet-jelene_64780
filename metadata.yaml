@@ -1,0 +1,24 @@
+_repo: A-hazai-bolcseszet-jelene_64780
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Erdélyi, János
+    alias: Erdelyi, Janos
+    birthdate: 1814
+    deathdate: 1868
+    gutenberg_agent_id: '39570'
+    url: http://www.gutenberg.org/2009/agents/39570
+    wikipedia: http://hu.wikipedia.org/wiki/Erd%C3%A9lyi_J%C3%A1nos_%28k%C3%B6lt%C5%91%29
+description: ''
+gutenberg_issued: '2021-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64780'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A hazai bölcsészet jelene
+url: http://www.gutenberg.org/ebooks/64780
